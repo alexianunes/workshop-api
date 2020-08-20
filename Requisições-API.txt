@@ -1,0 +1,7 @@
+﻿ENDPOINTS:
+
+/* USUARIOS */
+
+/usuarios/listar {GET} =  LISTAGEM DE TODOS OS USUÁRIOS
+/usuarios/cadastrar {POST} = CADASTRAR NOVO USUÁRIO
+/usuarios/{id} {GET} = RETORNAR USUÁRIO SELECIONADO
